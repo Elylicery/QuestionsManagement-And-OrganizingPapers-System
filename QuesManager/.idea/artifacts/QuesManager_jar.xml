@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuesManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuesManager_jar</output-path>
+    <root id="archive" name="QuesManager.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="QuesManager" />
+      <element id="extracted-dir" path="D:/software/mysql-connector-java-8.0.16/mysql-connector-java-8.0.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
