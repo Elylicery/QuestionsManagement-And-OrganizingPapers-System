@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuesManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/QuesManager_jar/QuesManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
